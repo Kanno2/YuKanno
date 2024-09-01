@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>yk-common</module>
+        <module>yk-platform</module>
+        <module>yk-platform-api</module>
     </modules>
 
 

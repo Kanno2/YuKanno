@@ -9,5 +9,11 @@
     <file url="file://$PROJECT_DIR$/yk-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yk-common/yk-common-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yk-common/yk-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yk-common/yk-common-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yk-common/yk-common-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yk-platform-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yk-platform-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yk-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yk-platform/src/main/resources" charset="UTF-8" />
   </component>
 </project>
